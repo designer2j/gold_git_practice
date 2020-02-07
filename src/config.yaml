@@ -1,0 +1,26 @@
+# 간단한 환경 파일
+members:
+    황현보:
+        age: 45
+        company: uber
+    신민서:
+        age: 37
+        company: apple
+    김봉수:
+        age: 36
+        company: google
+    김정훈:
+        age: 30
+        company: samsung
+    김영희:
+        age: 35
+        company: microsoft
+    장정인:
+        age: 36
+        company: apple
+
+company_we_want:
+    - google
+    - samsung
+    - naver
+    - apple
